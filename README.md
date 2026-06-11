@@ -1,16 +1,15 @@
 <div align="center">
 
-# Hi there, I'm Nitin Gupta 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nitin%20Gupta&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20%C2%B7%20GenAI%20Developer%20%C2%B7%20Data%20Analyst&descAlignY=55&descSize=16" />
 
-### AI/ML Engineer · Data Analyst · GenAI Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+Systems+🤖;Anthropic+Claude+API+Developer+🧠;IIT+Madras+Data+Science+Student+🎓;Turning+Data+into+Decisions+📊)](https://git.io/typing-svg)
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/2002-nitin-gupta/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nitingupta-iitm)
-[![IIT Madras](https://img.shields.io/badge/IIT%20Madras-BS%20Programme-orange?style=for-the-badge)](https://study.iitm.ac.in/ds/)
-
----
-
-*Building intelligent systems at the intersection of AI, data, and real-world impact.*
+[![IIT Madras](https://img.shields.io/badge/IIT%20Madras-BS%20Programme-orange?style=for-the-badge&logo=data:image/png;base64,)](https://study.iitm.ac.in/ds/)
+![Profile Views](https://komarev.com/ghpvc/?username=nitingupta-iitm&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -65,38 +64,43 @@ I'm a data science student at **IIT Madras (BS Programme)** with a strong focus 
 
 ## 🚀 Featured Projects
 
-### 🤖 [Building With Claude API](https://github.com/nitingupta-iitm/Building_With_Claude_API)
-A comprehensive, structured course covering the full Anthropic Claude API ecosystem — from basic API access through prompt evaluation, tool use, RAG, agentic search, Model Context Protocol (MCP), and multi-step agent workflows. Built with Python & Jupyter Notebooks.
+<div align="center">
 
-`Python` `Anthropic SDK` `RAG` `MCP` `Agents` `Prompt Engineering` `Tool Use`
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/nitingupta-iitm/Building_With_Claude_API">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitingupta-iitm&repo=Building_With_Claude_API&theme=tokyonight&hide_border=true" alt="Building With Claude API" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/nitingupta-iitm/GenAI-Powered-Data-Analytics">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitingupta-iitm&repo=GenAI-Powered-Data-Analytics&theme=tokyonight&hide_border=true" alt="GenAI-Powered Data Analytics" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/nitingupta-iitm/BDM_Capstone_Project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitingupta-iitm&repo=BDM_Capstone_Project&theme=tokyonight&hide_border=true" alt="BDM Capstone Project" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/nitingupta-iitm/Flask_With_SqlAlchemy">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitingupta-iitm&repo=Flask_With_SqlAlchemy&theme=tokyonight&hide_border=true" alt="Flask with SQLAlchemy" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/nitingupta-iitm/MLT_Workshop">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitingupta-iitm&repo=MLT_Workshop&theme=tokyonight&hide_border=true" alt="MLT Workshop" />
+      </a>
+    </td>
+  </tr>
+</table>
 
----
-
-### 📊 [GenAI-Powered Data Analytics](https://github.com/nitingupta-iitm/GenAI-Powered-Data-Analytics)
-An end-to-end GenAI data analytics project featuring EDA reports, predictive model planning, and business intelligence deliverables (reports, dashboards, presentations) for real-world use cases.
-
-`Python` `GenAI` `EDA` `Predictive Modeling` `Business Intelligence`
-
----
-
-### 🏪 [BDM Capstone Project — Gupta Gift Shop](https://github.com/nitingupta-iitm/BDM_Capstone_Project)
-A real-world business data management capstone where I collaborated with a shop owner in Himachal Pradesh, performed data collection, cleaning (scikit-learn imputation), analysis, and Power BI dashboarding — resulting in a **30–40% increase in sales**.
-
-`Python` `Pandas` `scikit-learn` `Power BI` `Business Analytics`
-
----
-
-### 🌐 [Flask with SQLAlchemy](https://github.com/nitingupta-iitm/Flask_With_SqlAlchemy)
-A backend web application project demonstrating Flask REST API development with SQLAlchemy ORM for database management.
-
-`Python` `Flask` `SQLAlchemy` `REST API`
-
----
-
-### 🔬 [MLT Workshop](https://github.com/nitingupta-iitm/MLT_Workshop)
-Machine Learning Techniques workshop notebooks covering core ML algorithms, theory, and practical implementations.
-
-`Python` `Jupyter Notebook` `Machine Learning`
+</div>
 
 ---
 
@@ -104,11 +108,32 @@ Machine Learning Techniques workshop notebooks covering core ML algorithms, theo
 
 <div align="center">
 
-![Nitin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitingupta-iitm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitingupta-iitm&layout=compact&theme=tokyonight&hide_border=true)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=nitingupta-iitm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nitin's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitingupta-iitm&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=nitingupta-iitm&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nitingupta-iitm/nitingupta-iitm/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nitingupta-iitm/nitingupta-iitm/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nitingupta-iitm/nitingupta-iitm/output/github-snake.svg" />
+</picture>
 
 </div>
 
@@ -140,6 +165,6 @@ I'm always open to collaborating on interesting AI/ML projects, research, or ope
 
 *"Data is the new oil — but only if you know how to refine it."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=nitingupta-iitm&color=blueviolet&style=flat-square)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 </div>
