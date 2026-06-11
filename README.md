@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nitin%20Gupta&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20%C2%B7%20GenAI%20Developer%20%C2%B7%20Data%20Analyst&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nitin%20Gupta&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20%C2%B7%20GenAI%20Developer%20%C2%B7%20Data%20Analyst&descAlignY=55&descSize=16" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+Systems+🤖;Anthropic+Claude+API+Developer+🧠;IIT+Madras+Data+Science+Student+🎓;Turning+Data+into+Decisions+📊)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ffff&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+Systems+🤖;Anthropic+Claude+API+Developer+🧠;IIT+Madras+Data+Science+Student+🎓;Turning+Data+into+Decisions+📊)](https://git.io/typing-svg)
 
 <br/>
 
