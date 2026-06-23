@@ -144,8 +144,7 @@ I'm a data science student at **IIT Madras (BS Programme)** with a strong focus 
 - Advanced **Agentic AI** patterns and multi-agent orchestration
 - **LLM fine-tuning** and model evaluation frameworks
 - **MLOps** — experiment tracking, CI/CD for ML pipelines
-- **Cloud deployment** for AI applications (AWS / GCP)
-
+- **Deep Learning**
 ---
 
 ## 🤝 Let's Connect
