@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/2002-nitin-gupta/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nitingupta-iitm)
-[![IIT Madras](https://img.shields.io/badge/IIT%20Madras-BS%20Programme-orange?style=for-the-badge&logo=data:image/png;base64,)](https://study.iitm.ac.in/ds/)
+[![IIT Madras](https://img.shields.io/badge/IIT%20Madras-BS%20Data%20Science-orange?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiB3aWR0aD0iMjAiIGhlaWdodD0iMjAiPgogIDwhLS0gSUlUIE1hZHJhcyBzaW1wbGlmaWVkIGNyZXN0IC0tPgogIDxjaXJjbGUgY3g9IjUwIiBjeT0iNTAiIHI9IjQ4IiBmaWxsPSIjOEIwMDAwIiBzdHJva2U9IiNGRkQ3MDAiIHN0cm9rZS13aWR0aD0iMyIvPgogIDx0ZXh0IHg9IjUwIiB5PSIzOCIgZm9udC1mYW1pbHk9InNlcmlmIiBmb250LXNpemU9IjEzIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iI0ZGRDcwMCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+SUlUPC90ZXh0PgogIDx0ZXh0IHg9IjUwIiB5PSI1NiIgZm9udC1mYW1pbHk9InNlcmlmIiBmb250LXNpemU9IjgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSJ3aGl0ZSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+TUFEUkFTPC90ZXh0PgogIDxsaW5lIHgxPSIyMCIgeTE9IjYwIiB4Mj0iODAiIHkyPSI2MCIgc3Ryb2tlPSIjRkZENzAwIiBzdHJva2Utd2lkdGg9IjEuNSIvPgogIDx0ZXh0IHg9IjUwIiB5PSI3NCIgZm9udC1mYW1pbHk9InNlcmlmIiBmb250LXNpemU9IjYiIGZpbGw9IiNGRkQ3MDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiPkVTVC4gMTk1OTwvdGV4dD4KPC9zdmc+Cg==)](https://study.iitm.ac.in/ds/)
 ![Profile Views](https://komarev.com/ghpvc/?username=nitingupta-iitm&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
@@ -29,37 +29,41 @@ I'm a data science student at **IIT Madras (BS Programme)** with a strong focus 
 
 ## 🛠️ Tech Stack
 
-**Languages**
+- **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**AI / ML / Data**
+- **AI / ML / Data**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+  ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**Generative AI**
+- **Generative AI**
 
-![Anthropic](https://img.shields.io/badge/Anthropic%20Claude-5A4FCF?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blueviolet?style=flat-square)
-![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-MCP-9cf?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-advanced-green?style=flat-square)
+  ![Anthropic](https://img.shields.io/badge/Anthropic%20Claude-5A4FCF?style=for-the-badge)
+  ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+  ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+  ![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blueviolet?style=for-the-badge)
+  ![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-MCP-9cf?style=for-the-badge)
+  ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-Advanced-green?style=for-the-badge)
 
-**Web & Backend**
+- **Web & Backend**
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+  ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**Visualization & BI**
+- **Visualization & BI**
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
+  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+  
 ---
 
 ## 🚀 Featured Projects
