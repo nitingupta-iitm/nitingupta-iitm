@@ -70,43 +70,19 @@ I'm a data science student at **IIT Madras (BS Programme)** with a strong focus 
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/nitingupta-iitm/Building_With_Claude_API">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitingupta-iitm&repo=Building_With_Claude_API&theme=tokyonight&hide_border=true" alt="Building With Claude API" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/nitingupta-iitm/GenAI-Powered-Data-Analytics">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitingupta-iitm&repo=GenAI-Powered-Data-Analytics&theme=tokyonight&hide_border=true" alt="GenAI-Powered Data Analytics" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/nitingupta-iitm/BDM_Capstone_Project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitingupta-iitm&repo=BDM_Capstone_Project&theme=tokyonight&hide_border=true" alt="BDM Capstone Project" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/nitingupta-iitm/Flask_With_SqlAlchemy">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitingupta-iitm&repo=Flask_With_SqlAlchemy&theme=tokyonight&hide_border=true" alt="Flask with SQLAlchemy" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/nitingupta-iitm/MLT_Workshop">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitingupta-iitm&repo=MLT_Workshop&theme=tokyonight&hide_border=true" alt="MLT Workshop" />
-      </a>
-    </td>
-  </tr>
-</table>
+| | |
+|---|---|
+| <a href="https://github.com/nitingupta-iitm/Building_With_Claude_API"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nitingupta-iitm&repo=Building_With_Claude_API&theme=tokyonight&hide_border=true" /></a> | **🤖 Building With Claude API**<br/>Hands-on projects exploring Claude API to build production-ready AI-powered applications with advanced LLM integrations.<br/><br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Claude API](https://img.shields.io/badge/Claude_API-6B48FF?style=flat-square) ![GenAI](https://img.shields.io/badge/GenAI-FF6B35?style=flat-square) |
+| <a href="https://github.com/nitingupta-iitm/GenAI-Powered-Data-Analytics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nitingupta-iitm&repo=GenAI-Powered-Data-Analytics&theme=tokyonight&hide_border=true" /></a> | **📊 GenAI-Powered Data Analytics**<br/>AI-driven analytics pipeline leveraging generative AI for intelligent data insights and automated visualizations.<br/><br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![LLM](https://img.shields.io/badge/LLM-FF6B35?style=flat-square) |
+| <a href="https://github.com/nitingupta-iitm/BDM_Capstone_Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nitingupta-iitm&repo=BDM_Capstone_Project&theme=tokyonight&hide_border=true" /></a> | **💼 BDM Capstone Project**<br/>End-to-end Business Data Management capstone focused on real-world data analysis and actionable business insights.<br/><br/>![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![BI](https://img.shields.io/badge/Business_Intelligence-FF9800?style=flat-square) |
+| <a href="https://github.com/nitingupta-iitm/Flask_With_SqlAlchemy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nitingupta-iitm&repo=Flask_With_SqlAlchemy&theme=tokyonight&hide_border=true" /></a> | **🌐 Flask With SQLAlchemy**<br/>Full-stack web application built with Flask and SQLAlchemy ORM for robust, scalable database-backed services.<br/><br/>![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| <a href="https://github.com/nitingupta-iitm/MLT_Workshop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nitingupta-iitm&repo=MLT_Workshop&theme=tokyonight&hide_border=true" /></a> | **🧠 MLT Workshop**<br/>Machine Learning Techniques workshop covering core ML algorithms, training pipelines, and evaluation methodologies.<br/><br/>![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) |
 
-</div>
+<br/>
 
----
+[![View All Repositories](https://img.shields.io/badge/🔗%20View%20All%20Repositories-%231a1b27?style=for-the-badge&labelColor=7aa2f7&color=1a1b27)](https://github.com/nitingupta-iitm?tab=repositories)
+
+</div>---
 
 ## 📈 GitHub Stats
 
