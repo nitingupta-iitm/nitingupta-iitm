@@ -82,24 +82,41 @@ I'm a data science student at **IIT Madras (BS Programme)** with a strong focus 
 
 [![View All Repositories](https://img.shields.io/badge/🔗%20View%20All%20Repositories-%231a1b27?style=for-the-badge&labelColor=7aa2f7&color=1a1b27)](https://github.com/nitingupta-iitm?tab=repositories)
 
-</div>---
+</div>
 
-## 📈 GitHub Stats
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=nitingupta-iitm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nitin's GitHub Stats" />
+    <!-- Tile 1: GitHub Stats -->
+    <td align="center" valign="top" width="50%">
+      <h3>📈 GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=nitingupta-iitm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitingupta-iitm&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <!-- Tile 2: Top Languages -->
+    <td align="center" valign="top" width="50%">
+      <h3>💻 Top Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitingupta-iitm&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
     </td>
   </tr>
+
+  <tr>
+    <!-- Tile 3: Streak Stats -->
+    <td colspan="2" align="center">
+      <h3>🔥 Current Streak</h3>
+      <img src="https://streak-stats.demolab.com?user=nitingupta-iitm&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=700" alt="GitHub Streak" />
+    </td>
+  </tr>
+
+  <tr>
+
 </table>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nitingupta-iitm&theme=tokyonight&hide_border=true)
+<br/>
 
 </div>
 
